@@ -1,5 +1,4 @@
 
-
 /* ---------- authentication ---------- */
 document.addEventListener("DOMContentLoaded", () => {
   const logoutBtn = document.getElementById("logoutBtn");
